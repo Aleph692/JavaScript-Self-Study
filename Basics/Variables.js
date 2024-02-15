@@ -17,4 +17,7 @@ because of issue in block scope and functional scope
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
-console.log(typeof accountId)
+console.log(typeof undefined) // the output is undefined.
+console.log(typeof null) // output is object.
+
+// for documention refer mdn
