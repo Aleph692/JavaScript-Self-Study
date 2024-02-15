@@ -13,7 +13,8 @@ console.log(accountId);
 
 /*
 Prefer not to use var
-beacuse of issue in block scope and functional scope
+because of issue in block scope and functional scope
 */
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.log(typeof accountId)
