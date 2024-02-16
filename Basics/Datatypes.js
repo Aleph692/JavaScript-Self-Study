@@ -14,7 +14,7 @@ let name = "Aleph"
 let age = 25
 let isLoggedIn = false
 
-// primiative
+// primitive
 
 // Number ==> 2 to the power of 53
 // Null ==> not value is present  
@@ -24,7 +24,7 @@ let isLoggedIn = false
 // Boolean ==> True / false
 // undefined ==> Value is not defined
 
-//  Non primiative
+//  Non primitive
 
 // Array
 // Object
