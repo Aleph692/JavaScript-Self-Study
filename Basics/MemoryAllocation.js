@@ -25,5 +25,5 @@ console.log(userTwo);
 /* 
 userOne is change when userTwo assign new value.
 but in previous example of Stack the original value is not change.
-This tell Heap work on refrence and stack work on copys. In short Heap gives reference it will the orignial value.
+This tell Heap work on refrence and stack work on copys. In short Heap gives reference it will change the orignial value.
 */
